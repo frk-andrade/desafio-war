@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-// Definindo o número máximo de territórios que podem ser cadastrados
+// Definindo o número máximo de territórios que podem ser cadastrados para facilitar a manunteção
 #define MAX_TERRITORIO 5
 
 // Estrutura para armazenar as informações de cada território
